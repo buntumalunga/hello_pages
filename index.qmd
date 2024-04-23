@@ -1,0 +1,14 @@
+---
+title: "My first page"
+format: html
+editor: visual
+---
+
+```{r}
+
+library(reactable)
+```
+
+```{r}
+plot(women)
+```
