@@ -1,0 +1,14 @@
+---
+title: "My seond  page"
+format: html
+editor: visual
+---
+
+```{r}
+
+library(reactable)
+```
+
+```{r}
+plot(iris)
+```
